@@ -1,1 +1,1 @@
-npx serve reveal.js
+npx serve ../reveal.js

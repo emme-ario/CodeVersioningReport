@@ -27,13 +27,13 @@
 
 <div class="r-fit-text" style="text-align: center">
     <p class="fragment fade-up" data-fragment-index="3">
-        l'intero <strong>storico</strong> delle versioni viene  <strong>salvato</strong>
+        l'intero <strong>storico</strong> delle versioni viene <strong>salvato</strong>
     </p>
     <p class="fragment fade-down" data-fragment-index="1">
-        pi&#249; sviluppatori possono lavorare  <strong>contemporaneamente</strong> allo stesso progetto
+        pi&#249; sviluppatori possono lavorare <strong>contemporaneamente</strong> allo stesso progetto
     </p>
     <p class="fragment fade-down" data-fragment-index="2">
-        chiunque abbia accesso al progetto pu&#0242     <strong>segnalare</strong> errori
+        chiunque abbia accesso al progetto pu&#0242 <strong>segnalare</strong> errori
     </p>
 </div>
 
